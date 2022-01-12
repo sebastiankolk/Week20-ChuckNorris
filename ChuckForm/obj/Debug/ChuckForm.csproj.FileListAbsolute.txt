@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\ChuckConsole\ChuckForm\bin\Debug\ChuckForm.exe.config
+C:\Users\opilane\source\repos\ChuckConsole\ChuckForm\bin\Debug\ChuckForm.exe
+C:\Users\opilane\source\repos\ChuckConsole\ChuckForm\bin\Debug\ChuckForm.pdb
+C:\Users\opilane\source\repos\ChuckConsole\ChuckForm\obj\Debug\ChuckForm.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\ChuckConsole\ChuckForm\obj\Debug\ChuckForm.Form1.resources
+C:\Users\opilane\source\repos\ChuckConsole\ChuckForm\obj\Debug\ChuckForm.Properties.Resources.resources
+C:\Users\opilane\source\repos\ChuckConsole\ChuckForm\obj\Debug\ChuckForm.csproj.GenerateResource.cache
+C:\Users\opilane\source\repos\ChuckConsole\ChuckForm\obj\Debug\ChuckForm.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\ChuckConsole\ChuckForm\obj\Debug\ChuckForm.exe
+C:\Users\opilane\source\repos\ChuckConsole\ChuckForm\obj\Debug\ChuckForm.pdb
+C:\Users\opilane\source\repos\ChuckConsole\ChuckForm\bin\Debug\Newtonsoft.Json.dll
+C:\Users\opilane\source\repos\ChuckConsole\ChuckForm\bin\Debug\Newtonsoft.Json.xml
+C:\Users\opilane\source\repos\ChuckConsole\ChuckForm\obj\Debug\ChuckForm.csproj.CopyComplete
